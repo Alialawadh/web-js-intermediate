@@ -1,0 +1,18 @@
+.myCard {
+  margin-top: 200px;
+  margin-left: 200px;
+  display: flex;
+}
+
+.par {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color: aqua;
+}
+
+.price {
+  background-color: beige;
+  font-size: 20px;
+  font-weight: 20px;
+}
